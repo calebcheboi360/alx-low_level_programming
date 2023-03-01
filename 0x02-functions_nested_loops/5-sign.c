@@ -3,7 +3,6 @@
 
 	/**
 	 * print_sign - prints the sign of a number
-	 * description: The program description
 	 * @n: the int to check
 	 * Return: 1 and prints + if n is greater than zero
 	 * 0 and prints 0 if n is zero
@@ -23,6 +22,5 @@
 		{
 			_putchar('-');
 		}
-		
-		return (-1);
+			return (-1);
 	}
